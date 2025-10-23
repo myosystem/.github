@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=myosystem&repo=mykernel)](https://github.com/myosystem/mybootloader)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=myosystem&repo=mykernel)](https://github.com/myosystem/mykernel)
 <!--
 
 **Here are some ideas to get you started:**
